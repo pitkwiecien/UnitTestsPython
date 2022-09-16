@@ -18,5 +18,5 @@ def encode(text: str) -> str:
     return new_text
 
 
-# given_number = input("Podaj tekst do zaszyfrowania: ")
-# print(encode(given_number))
+given_number = input("Podaj tekst do zaszyfrowania: ")
+print(encode(given_number))
